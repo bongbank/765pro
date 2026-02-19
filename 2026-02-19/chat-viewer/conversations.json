@@ -1,0 +1,85 @@
+{
+  "conversations": [
+    {
+      "name": "General Chat",
+      "messages": [
+        {
+          "type": "received",
+          "sender": "Alice",
+          "text": "Hey everyone! How's it going?",
+          "timestamp": "2024-01-15T10:00:00Z"
+        },
+        {
+          "type": "sent",
+          "sender": "You",
+          "text": "Pretty good! Just working on some code.",
+          "timestamp": "2024-01-15T10:02:00Z"
+        },
+        {
+          "type": "received",
+          "sender": "Bob",
+          "text": "Nice! What are you building?",
+          "timestamp": "2024-01-15T10:05:00Z"
+        },
+        {
+          "type": "sent",
+          "sender": "You",
+          "text": "A simple chat viewer app!",
+          "timestamp": "2024-01-15T10:07:00Z"
+        },
+        {
+          "type": "received",
+          "sender": "Alice",
+          "text": "That sounds cool! Can't wait to see it.",
+          "timestamp": "2024-01-15T10:10:00Z"
+        }
+      ]
+    },
+    {
+      "name": "Project Discussion",
+      "messages": [
+        {
+          "type": "received",
+          "sender": "Charlie",
+          "text": "Let's discuss the new feature requirements.",
+          "timestamp": "2024-01-16T14:00:00Z"
+        },
+        {
+          "type": "sent",
+          "sender": "You",
+          "text": "Sure, I've prepared a draft proposal.",
+          "timestamp": "2024-01-16T14:05:00Z"
+        },
+        {
+          "type": "received",
+          "sender": "Charlie",
+          "text": "Great! Please share it with the team.",
+          "timestamp": "2024-01-16T14:10:00Z"
+        }
+      ]
+    },
+    {
+      "name": "Random",
+      "messages": [
+        {
+          "type": "received",
+          "sender": "Dave",
+          "text": "Anyone up for coffee?",
+          "timestamp": "2024-01-17T09:30:00Z"
+        },
+        {
+          "type": "sent",
+          "sender": "You",
+          "text": "Count me in!",
+          "timestamp": "2024-01-17T09:32:00Z"
+        },
+        {
+          "type": "received",
+          "sender": "Eve",
+          "text": "Me too! ☕",
+          "timestamp": "2024-01-17T09:35:00Z"
+        }
+      ]
+    }
+  ]
+}
