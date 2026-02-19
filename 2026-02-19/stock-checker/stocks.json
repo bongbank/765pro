@@ -1,0 +1,74 @@
+[
+    {
+        "ticker": "TSM",
+        "price": "N/A",
+        "change": "N/A",
+        "changePercent": "N/A"
+    },
+    {
+        "ticker": "TSLA",
+        "price": "N/A",
+        "change": "N/A",
+        "changePercent": "N/A"
+    },
+    {
+        "ticker": "GOOGL",
+        "price": "N/A",
+        "change": "N/A",
+        "changePercent": "N/A"
+    },
+    {
+        "ticker": "NVDA",
+        "price": "N/A",
+        "change": "N/A",
+        "changePercent": "N/A"
+    },
+    {
+        "ticker": "QQQI",
+        "price": "N/A",
+        "change": "N/A",
+        "changePercent": "N/A"
+    },
+    {
+        "ticker": "AMZN",
+        "price": "N/A",
+        "change": "N/A",
+        "changePercent": "N/A"
+    },
+    {
+        "ticker": "AMD",
+        "price": "N/A",
+        "change": "N/A",
+        "changePercent": "N/A"
+    },
+    {
+        "ticker": "SLV",
+        "price": "N/A",
+        "change": "N/A",
+        "changePercent": "N/A"
+    },
+    {
+        "ticker": "EOSE",
+        "price": "N/A",
+        "change": "N/A",
+        "changePercent": "N/A"
+    },
+    {
+        "ticker": "PLTR",
+        "price": "N/A",
+        "change": "N/A",
+        "changePercent": "N/A"
+    },
+    {
+        "ticker": "ONDS",
+        "price": "N/A",
+        "change": "N/A",
+        "changePercent": "N/A"
+    },
+    {
+        "ticker": "OKLO",
+        "price": "N/A",
+        "change": "N/A",
+        "changePercent": "N/A"
+    }
+]
