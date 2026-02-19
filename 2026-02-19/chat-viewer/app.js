@@ -85,4 +85,7 @@ document.getElementById('conversationSelect').addEventListener('change', (e) => 
 });
 
 // Initialize on page load
-document.addEventListener('DOMContentLoaded', loadConversations);
+document.addEventListener('DOMContentLoaded', function() {
+    loadConversations();
+    alert('Chat viewer updated!');
+});

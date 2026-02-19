@@ -89,8 +89,8 @@ header h1 {
 
 .message.received {
     align-self: flex-start;
-    background: white;
-    color: #333;
+    background: #9b59b6; /* Purple color for incoming messages */
+    color: white;
     border-bottom-left-radius: 4px;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
 }
